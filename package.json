@@ -1,0 +1,15 @@
+{
+  "name": "selenium-hello-world",
+  "version": "1.0.0",
+  "description": "I wanted to put together a bare-bones Selenium test project that uses SauceLabs to run my tests. Not sure how far I will take it at this point but will plan to update this readme as I do.S",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git@github.com:davewoodward/selenium-hello-world.git"
+  },
+  "author": "Dave Woodward",
+  "license": "ISC"
+}
